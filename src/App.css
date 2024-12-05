@@ -90,6 +90,9 @@ nav a{
   -webkit-line-clamp: 1; /* Limits text to 2 lines */
   white-space: normal;
 }
+.footer-menu a{
+  text-decoration: none;
+}
 .facts{
   display: -webkit-box; /* For WebKit browsers */
   -webkit-box-orient: vertical;

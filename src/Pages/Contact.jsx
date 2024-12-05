@@ -1,12 +1,15 @@
 export const Contact = () => {
     
-  
+    const handleFormsubmit = (formData) =>{
+       const formInputData =   Object.fromEntries(formData.entries());
+       console.log(formInputData)
+    }
     return (
       <section className="section-contact">
         <h2 className="container-title">Contact Us</h2>
   
         <div className="contact-wrapper container">
-          <form >
+          <form action={handleFormsubmit}>
             <input
               type="text"
               className="form-control"

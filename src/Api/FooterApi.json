@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Bengaluru, Karnatka"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "98886173054"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "alok.dev1411@gmail.com"
+    }
+  ]
