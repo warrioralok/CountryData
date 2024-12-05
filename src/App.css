@@ -81,6 +81,27 @@ nav a{
 .logo a{
   text-decoration: none;
 }
+.factsCapital{
+  display: -webkit-box; /* For WebKit browsers */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-clamp: 1; /* Adjust this for the number of lines */
+  -webkit-line-clamp: 1; /* Limits text to 2 lines */
+  white-space: normal;
+}
+.facts{
+  display: -webkit-box; /* For WebKit browsers */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-clamp: 2; /* Adjust this for the number of lines */
+  -webkit-line-clamp: 2; /* Limits text to 2 lines */
+  white-space: normal; 
+}
+p.card-title img{
+  max-width: 60px;
+}
 .container {
   max-width: 125rem;
   margin: auto;
