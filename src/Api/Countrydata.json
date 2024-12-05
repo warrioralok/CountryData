@@ -1,0 +1,138 @@
+[
+    {
+      "id": 1,
+      "name": "United States",
+      "continent": "North America",
+      "population": 331893745,
+      "flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+      "capital": "Washington, D.C.",
+      "details": "The United States is a country primarily located in North America. It is known for its cultural influence, economic power, and diverse population."
+    },
+    {
+      "id": 2,
+      "name": "Canada",
+      "continent": "North America",
+      "population": 38005238,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+      "capital": "Ottawa",
+      "details": "Canada is the second-largest country in the world by area and is known for its natural beauty, multicultural society, and strong economy."
+    },
+    {
+      "id": 3,
+      "name": "Mexico",
+      "continent": "North America",
+      "population": 126014024,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+      "capital": "Mexico City",
+      "details": "Mexico is a country in the southern portion of North America. It is known for its rich culture, history, and diverse landscapes."
+    },
+    {
+      "id": 4,
+      "name": "Germany",
+      "continent": "Europe",
+      "population": 83240525,
+      "flag": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+      "capital": "Berlin",
+      "details": "Germany is a leading European country known for its strong economy, cultural contributions, and historical landmarks."
+    },
+    {
+      "id": 5,
+      "name": "France",
+      "continent": "Europe",
+      "population": 65480710,
+      "flag": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+      "capital": "Paris",
+      "details": "France is renowned for its art, culture, and cuisine. It is one of the most visited countries in the world."
+    },
+    {
+      "id": 6,
+      "name": "Japan",
+      "continent": "Asia",
+      "population": 125813000,
+      "flag": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+      "capital": "Tokyo",
+      "details": "Japan is an island nation in East Asia known for its technology, traditional culture, and unique landscapes."
+    },
+    {
+      "id": 7,
+      "name": "United Kingdom",
+      "continent": "Europe",
+      "population": 67886011,
+      "flag": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+      "capital": "London",
+      "details": "The United Kingdom, made up of England, Scotland, Wales, and Northern Ireland, is known for its historical significance and global influence."
+    },
+    {
+      "id": 8,
+      "name": "Russia",
+      "continent": "Europe/Asia",
+      "population": 144104080,
+      "flag": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+      "capital": "Moscow",
+      "details": "Russia is the largest country in the world by area, spanning Europe and Asia. It is known for its cultural heritage and vast natural resources."
+    },
+    {
+      "id": 9,
+      "name": "China",
+      "continent": "Asia",
+      "population": 1412600000,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_China.svg",
+      "capital": "Beijing",
+      "details": "China is the world's most populous country, known for its ancient civilization, rapid economic growth, and technological advancements."
+    },
+    {
+      "id": 10,
+      "name": "Brazil",
+      "continent": "South America",
+      "population": 214326223,
+      "flag": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+      "capital": "Brasília",
+      "details": "Brazil is the largest country in South America and Latin America. It is famous for its rainforests, soccer, and vibrant culture."
+    },
+    {
+      "id": 11,
+      "name": "India",
+      "continent": "Asia",
+      "population": 1417173173,
+      "flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+      "capital": "New Delhi",
+      "details": "India is a South Asian country known for its diverse culture, languages, and history. It is the world's largest democracy."
+    },
+    {
+      "id": 12,
+      "name": "Australia",
+      "continent": "Oceania",
+      "population": 25687041,
+      "flag": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+      "capital": "Canberra",
+      "details": "Australia is a country and continent surrounded by the Indian and Pacific Oceans. It is known for its unique wildlife and vibrant cities."
+    },
+    {
+      "id": 13,
+      "name": "South Africa",
+      "continent": "Africa",
+      "population": 60142978,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+      "capital": "Pretoria (executive), Bloemfontein (judicial), Cape Town (legislative)",
+      "details": "South Africa is a diverse country located at the southern tip of Africa. It is known for its cultural diversity and natural resources."
+    },
+    {
+      "id": 14,
+      "name": "Argentina",
+      "continent": "South America",
+      "population": 45376763,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+      "capital": "Buenos Aires",
+      "details": "Argentina is known for its diverse landscapes, vibrant culture, and its history of soccer dominance."
+    },
+    {
+      "id": 15,
+      "name": "Italy",
+      "continent": "Europe",
+      "population": 59257566,
+      "flag": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+      "capital": "Rome",
+      "details": "Italy is a European country known for its historical landmarks, cuisine, and contributions to art and fashion."
+    }
+  ]
+  
