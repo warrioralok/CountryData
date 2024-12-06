@@ -14,19 +14,21 @@ export const Footer = () => {
   return (
     <footer className="footer-section">
       <div className="container grid grid-three-cols">
-           {FooterApi.map((FooterElem,index) =>{ 
-            const {icon , title, details} = FooterElem
-            return(
+           
             <>
-            <div className="footer-contact" key={index}>
+            {FooterApi.map((FooterElem,index) =>{ 
+            const {icon , title, details} = FooterElem;
+            return(
+            <div className="footer-contact" key={index + 1}>
               <div className="icon">{FooterIcon[icon]}</div>
               <div className="footer-contact-text">
                 <p>{title}</p>
                 <p>{details}</p>
               </div>
-            </div>
-            </>)
+            </div>)
+            
             })}
+            </>
       </div>
 
       <div className="copyright-area">

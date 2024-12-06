@@ -42,9 +42,7 @@ li {
 a {
   color: #000;
 
-  &:hover {
-    color: #2e86c1;
-  }
+ 
 }
 
 button {
@@ -92,6 +90,10 @@ nav a{
 }
 .footer-menu a{
   text-decoration: none;
+}
+.card-title a:hover{
+  text-decoration: none;
+  color: #fff !important;
 }
 .facts{
   display: -webkit-box; /* For WebKit browsers */

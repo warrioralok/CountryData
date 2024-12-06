@@ -9,7 +9,7 @@ export const Errorpage = () => {
     <>
       <Header />
       <h1>This is Error PAge</h1>
-      <h2>Error:`{error.status} / {error.error.message}`</h2>
+      <h2>Error:`${error.status} / ${error.error}`</h2>
       <NavLink to='/'>
       <button>Go Back</button></NavLink>
       <Footer />
