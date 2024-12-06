@@ -1,4 +1,5 @@
 import { FaRegArrowAltCircleRight } from "react-icons/fa";
+import { NavLink } from "react-router-dom";
 
 export const Herosection = () => {
   return (
@@ -12,9 +13,12 @@ export const Herosection = () => {
             ever since the 1500s, when an unknown printer took a galley of type
             and scrambled it to make a type specimen book.
           </p>
+          <NavLink to="/country">
           <button className="btn btn-darken btn-inline bg-white-box">
             Start Exploring <FaRegArrowAltCircleRight />
           </button>
+          </NavLink>
+          
         </div>
         <div className="hero-image">
           <img
